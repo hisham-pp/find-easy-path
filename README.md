@@ -20,13 +20,3 @@ You can provide **N number of coordinates**, and the program will calculate the 
 - Python 3.8+
 
 No additional libraries are required.
-
----
-
-## Installation
-
-Clone or download the project.
-
-```bash
-git clone <repo-url>
-cd shortest-path-finder
